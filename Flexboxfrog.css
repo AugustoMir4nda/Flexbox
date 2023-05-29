@@ -122,21 +122,21 @@
 /*Nível 18*/
 #pond {
     display: flex;
-  flex-wrap: wrap
+    flex-wrap: wrap
 }
 
 /*Nível 19*/
 #pond {
     display: flex;
-  flex-direction: column;
-  flex-wrap: wrap
+    flex-direction: column;
+    flex-wrap: wrap
 }
 
 /*Nível 20*/
 
 #pond {
     display: flex;
-  flex-flow: column wrap; 
+    flex-flow: column wrap; 
 }
 
 /*Nível 21*/
@@ -157,14 +157,14 @@
 #pond {
     display: flex;
     flex-wrap: wrap;
-  align-content: center;
-  flex-direction: column-reverse
+    align-content: center;
+    flex-direction: column-reverse
 }
 
 /*Nível 24*/
 #pond {
     display: flex;
-  align-content: space-between;
-  flex-flow: column-reverse wrap-reverse;
-  justify-content: center;
-  }
+    align-content: space-between;
+    flex-flow: column-reverse wrap-reverse;
+    justify-content: center;
+}
